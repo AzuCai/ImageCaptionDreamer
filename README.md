@@ -26,7 +26,7 @@ This project showcases expertise in:
 Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/ImageCaptionDreamer.git
+git clone https://github.com/AzuCai/ImageCaptionDreamer.git
 cd ImageCaptionDreamer
 
 ### 2. Prepare Images
